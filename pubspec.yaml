@@ -1,0 +1,21 @@
+name: animated_chess
+description: A Chessboard plugin for flutter with animations.
+version: 0.0.1
+author: Dheeraj Pundir
+homepage: https://github.com/dheeraj-p/animated_chess_flutter
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  chess: ^0.6.6
+  chess_vectors_flutter: ^1.0.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
